@@ -50,7 +50,6 @@ since those networks already had optimized weights. However, very powerful netwo
 the way to go because they really depend on the problem faced.
 
 ## Group Components
-
 | Cognome | Nome | e-mail | Codice Persona |
 | --- | --- | --- | --- |
 | La Greca  | Michele Carlo | michelecarlo.lagreca@mail.polimi.it | 10864460 |
